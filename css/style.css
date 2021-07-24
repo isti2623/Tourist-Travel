@@ -1,0 +1,91 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+
+/* Header Part */
+.login-btn{
+    width: 132px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.custom-nav{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+/* Explore And Travel Part */
+.explore-part{
+    margin-top: 150px;
+}
+.btn-explore{
+    width: 140px;
+    height: 40px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr-part{
+    width: 10%;
+    height: 30px;
+  
+}
+/* Explore The World */
+.world-p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    letter-spacing: 2;
+    line-height: 30px;
+    size: 17px;
+}
+.world-part{
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
+
+.destination-part{
+    margin-top: 200px;
+    margin-bottom: 250px;
+}
+/* Thousand Sunny */
+.sunny-part{
+    margin-top: 370px;
+    margin-bottom: 100px;
+}
+
+/* Testimonials */
+
+.testimonial-part{
+    margin-top: 270px;
+    margin-bottom: 100px;
+}
+.testi-sub{
+    margin-top: 120px;
+}
+.testi-row{
+    margin-top: 70px;
+}
+
+/* Tranding Stories */
+
+.Tranding-part{
+    margin-top: 200px;
+    margin-bottom: 250px;
+}
+.tranding-row{
+    margin-top: 50px;
+}
+
+/* footer */
+.footer-banner{
+    background-image: url(../images/footer.png);
+}
+.custom-icon {
+    font-size: 30px;
+    color: #ffc107;
+}
+
+.style{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
